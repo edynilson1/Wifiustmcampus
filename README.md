@@ -136,3 +136,19 @@ Apresentação final das redes encontradas.
 
 ![ResultsActivity](https://github.com/user-attachments/assets/9e527528-556b-4cc0-9af9-429a21691668)
 
+### 14. Teste do aplicativo — Tela inicial
+Tela para inserir o nome da rede Wi-Fi e iniciar a pesquisa.
+
+![Tela inicial] <img width="720" height="1600" alt="Image" src="https://github.com/user-attachments/assets/07b4c6a8-2ed7-4d41-b605-7c829f6b2fec" />
+
+### 15. Teste do aplicativo — Pesquisa realizada
+Tela após inserir o nome da rede e realizar a pesquisa, Apresentação da lista de redes Wi-Fi encontradas, incluindo o nome da rede e a intensidade do sinal.
+
+![Pesquisa realizada]   <img width="720" height="1600" alt="Image" src="https://github.com/user-attachments/assets/3c8cf5f6-1fc2-4375-a962-d7fce4318771" />
+
+### 16. Teste do aplicativo com inicial de uma rede wifi
+ <img width="720" height="1600" alt="Image" src="https://github.com/user-attachments/assets/708f6359-f2a1-4931-8dd9-b72aa787a9fc" />
+
+Resultado :   <img width="720" height="1600" alt="Image" src="https://github.com/user-attachments/assets/9e8490ed-8387-4509-9085-2f8dddbca8a7" />
+ 
+
