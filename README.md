@@ -149,6 +149,8 @@ Tela após inserir o nome da rede e realizar a pesquisa, Apresentação da lista
 ### 16. Teste do aplicativo com inicial de uma rede wifi
  <img width="720" height="1600" alt="Image" src="https://github.com/user-attachments/assets/708f6359-f2a1-4931-8dd9-b72aa787a9fc" />
 
-Resultado :   <img width="720" height="1600" alt="Image" src="https://github.com/user-attachments/assets/9e8490ed-8387-4509-9085-2f8dddbca8a7" />
+Resultado :  
+
+<img width="720" height="1600" alt="Image" src="https://github.com/user-attachments/assets/9e8490ed-8387-4509-9085-2f8dddbca8a7" />
  
 
